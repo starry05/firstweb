@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+}
+#my-id{
+color:crimson;
+}
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color:lightblue;
+}
+h1{
+    font-size:60px;
+    text-align:center;
+}
+body {
+    width: 600px;
+    margin: 20px auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    background-color:lightgoldenrodyellow;
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
